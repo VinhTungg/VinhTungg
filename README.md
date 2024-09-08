@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinhTungg.
 - ⚽ I love playing football.
-- 👩🏼‍💻 I’m currently learning C++.
+- 👨‍💻 I’m currently learning C++.
 - 🙆‍♂️ I always strive to spread positive energy.
 - 📧 You can contact me via email at: vinhtungnguyen2005@gmail.com.
 
