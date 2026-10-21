@@ -2,11 +2,10 @@
 
 Final-year Computer Science student at PTIT, focused on **backend development**.
 
-## What I work with
-- **Languages:** Python, Java, JavaScript/TypeScript
-- **Backend:** FastAPI, Spring Boot, Express.js
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **DevOps:** Docker, GitHub Actions, Grafana
+## Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,fastapi,spring,express,react,nextjs,postgres,mysql,mongodb,redis,docker,githubactions,grafana,git,linux" />
+</p>
 
 ## Featured work
 - **ITIS WEB**: member management platform used in production by the Faculty of IT 1 Youth Union (100 active users). Role-based access control, file management, Redis caching that cut response time from 850 ms to 350 ms. [Live](https://www.lcdkhoacntt1.com)
